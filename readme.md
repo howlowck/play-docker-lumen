@@ -1,4 +1,4 @@
 ## To Get started
 
-add `lumen.docker` to your hosts file
-run `docker-compose up -d`
+1. add `lumen.docker` to your hosts file  
+2. run `docker-compose up -d`
